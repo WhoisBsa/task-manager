@@ -4,8 +4,8 @@
 [submodule "backend-csharp"]
 	path = backend-csharp
 	url = git@github.com:WhoisBsa/task-manager-backend-csharp.git
-[submodule "prostgres"]
-	path = prostgres
+[submodule "postgres"]
+	path = postgres
 	url = git@github.com:WhoisBsa/task-manager-pg.git
 [submodule "frontend"]
 	path = frontend
