@@ -7,6 +7,6 @@
 [submodule "frontend"]
 	path = frontend
 	url = git@github.com:WhoisBsa/task-manager-frontend.git
-[submodule "postegres"]
-	path = postegres
+[submodule "postgres"]
+	path = postgres
 	url = git@github.com:WhoisBsa/task-manager-pg.git
